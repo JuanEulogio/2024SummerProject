@@ -3,14 +3,14 @@ import { Container, Row, Col, Button, Image, Card, Carousel } from 'react-bootst
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes, Navigate } from 'react-router-dom';
-import Home from './pages/Home';
+import Home from './pages/Home.jsx';
 
 function App() {
   
   return ( <div>
-     <Routes>
-      <Route path="/" Component={Home} />
-    </Routes>
+
+<h1>This is home</h1>
+
   </div>
   )
 }
