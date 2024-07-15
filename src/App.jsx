@@ -3,7 +3,7 @@ import { Container, Row, Col, Button, Image, Card, Carousel } from 'react-bootst
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import { Route, Routes, Navigate } from 'react-router-dom';
-import { BrowserRouter } from 'react-router-dom';
+//import { BrowserRouter } from 'react-router-dom';
 import Home from './pages/Home.jsx';
 
 function App() {
