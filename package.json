@@ -1,7 +1,7 @@
 {
   "homepage": "https://juaneulogio.github.io/2024SummerProject/",
   "name": "2024summerproject",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
